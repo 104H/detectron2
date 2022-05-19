@@ -15,5 +15,5 @@ dataloader.train.total_batch_size = 4
 
 
 
-train.init_checkpoint = "/media/naeem/T7/trainers/fcos_R_50_FPN_1x.py/model_final.pth"
+train.init_checkpoint = "model_final.pth"
 # print('hold')
